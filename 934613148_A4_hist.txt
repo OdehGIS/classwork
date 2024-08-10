@@ -1,0 +1,50 @@
+ type dining_room.txt
+type dining_table.txt
+type  mysterious_note.txt
+cd ..
+dir
+cd knotty_tree
+dir
+cd secret_knot
+dir 
+cd portal
+dir
+dir /s /b
+type \Engary\High_Nandland\Charmaine.txt
+cd \Engary\High_Nandland\
+dir
+cd Engary
+dir
+cd High_Nandland
+dir
+type Charmaine.txt
+cd ..
+dir
+type  Calciphre.txt
+cd .. 
+dir 
+cd Stemerant
+dir
+type Bassed.txt
+cd ..
+cd Harefang\
+dir
+type Puttleglumb.txt
+cd ..
+cd Boarscider
+dir
+type Orchid.txt
+cd ..
+cd Aisenguard
+dir
+type Sharki.txt
+cd ..
+cd..
+copy con 934613148_A4_secretmessage.txt
+My shining dishonesty will be the salvation of me-- 
+you have to be a bit of a liar to tell a story the right way.
+The made-up things seem a good deal more important than the real ones.
+Never tickle a sleeping dragon,And never laugh at live ones.
+dir
+doskey /history
+doskey /history > 934613148_A4_hist.txt
